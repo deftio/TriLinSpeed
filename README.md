@@ -54,7 +54,7 @@ TriLinSpeed.exe can also be run under wine but there is no port at this time to 
 | Thinkpad T410 | Win 7 Ultimate                   | Intel Core i5-520m  | 2.4GHz     | 8GB   | 50             | 6.0          |
 | Thinkpad T410 | Ubuntu 14.04-x64 LTS+wine1.5     | Intel Core i5-520m  | 2.4GHz     | 8GB   | 60             | 6.1          |
 | Thinkpad T510 | Win7-64 Pro                      | Intel Core i7-620m  | 2.7GHz     | 8GB   | 59             | 6.7          |
-| LaVie Z       | Win10 Home (64 bit)              | Intel Core i7-5500U | 2.5GHz     | 8GB   |                |              |
+| LaVie Z       | Win10 Home (64 bit)              | Intel Core i7-5500U | 2.4GHz     | 8GB   | 82             | 5.9          |
 | X1 Carbon     | Win10 Pro (64)                   | Intel Core i7-5600U | 2.6GHz     | 8GB   | 90             | 6.5          |
 
 If you run the benchmark, find it useful and would like your results included here just email me with the above info.
