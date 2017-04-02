@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 # TriLinSpeed.exe 
 
 A win32 benchmarking program for single threaded processor compute speed
